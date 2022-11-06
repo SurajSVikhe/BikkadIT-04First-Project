@@ -1,0 +1,6 @@
+public class demo2{
+
+public class void main (string arg []){
+system.out.println("want to developer in future");
+}
+}
