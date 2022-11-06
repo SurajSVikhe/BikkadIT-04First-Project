@@ -1,0 +1,7 @@
+public class demo{
+
+public class void main (string arg []){
+system.out.println("Good Morning");
+}
+}
+
